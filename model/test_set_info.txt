@@ -1,0 +1,228 @@
+======================================================================
+TEST SET INFORMATION
+======================================================================
+
+
+udang_keto:
+----------------------------------------------------------------------
+  20250607_151550_no_bg_7b1hqjzu_original.jpg
+  Udang Dogol9_original.jpg
+  Udang Dogol8_original.jpg
+  20250607_151931_no_bg_cddwe2ep_original.jpg
+  20250607_152221_aug2.jpg
+  20250607_151658_no_bg_y6vy9i6b_original.jpg
+  20250607_151737_aug2.jpg
+  Udang Dogol6_aug1.jpg
+  20250607_151430_aug1.jpg
+  20250607_151938_aug1.jpg
+  20250607_152021_no_bg_3ftpigac_aug2.jpg
+  20250607_152057_aug2.jpg
+  20250607_151955_aug2.jpg
+  20250607_151430_no_bg_loohnrxt_original.jpg
+  20250607_151404_no_bg_twkt7itm_aug1.jpg
+  20250607_151808_original.jpg
+  20250607_151640_no_bg_hgn6amnf_aug2.jpg
+  20250607_151623_no_bg_x757m102_aug1.jpg
+  20250607_151848_aug2.jpg
+  Udang Dogol3_aug2.jpg
+  20250607_151606_aug1.jpg
+  20250607_151259_aug2.jpg
+  20250607_151543_original.jpg
+  20250607_151302_no_bg_iwtr83ir_aug1.jpg
+  20250607_151800_aug2.jpg
+  20250607_151753_aug1.jpg
+  20250607_152131_original.jpg
+  20250607_151841_original.jpg
+  20250607_152228_aug1.jpg
+  20250607_151743_original.jpg
+  20250607_151503_no_bg_h8l6rfc3_original.jpg
+  20250607_151915_aug2.jpg
+  20250607_151623_no_bg_x757m102_original.jpg
+  20250607_151904_aug1.jpg
+  20250607_152010_original.jpg
+  20250607_151326_aug2.jpg
+  20250607_151417_aug2.jpg
+  20250607_151335_original.jpg
+  20250607_151955_no_bg_y7ufalpx_aug2.jpg
+  20250607_152244_no_bg_d9bt7e3a_aug2.jpg
+  Udang Dogol6_aug2.jpg
+  20250607_151243_aug2.jpg
+  20250607_151737_no_bg_lspl74jc_aug2.jpg
+  20250607_152003_aug1.jpg
+  20250607_151948_no_bg_kaxhf54l_aug2.jpg
+  20250607_151623_original.jpg
+  20250607_151729_aug2.jpg
+  20250607_151921_aug2.jpg
+  20250607_152003_no_bg_s6monb7j_aug1.jpg
+  Udang Dogol4_aug1.jpg
+  Udang Dogol7_aug2.jpg
+
+Total udang_keto: 51 images
+
+udang_putih:
+----------------------------------------------------------------------
+  20250531_152902_no_bg_kp24j4r4_aug2.jpg
+  20250531_153005_aug2.jpg
+  20250531_153124_aug1.jpg
+  20250531_151955_aug1.jpg
+  20250531_152930_no_bg_g5rz3ef8_aug2.jpg
+  20250531_153054_original.jpg
+  20250531_152447_aug2.jpg
+  20250531_152440_aug1.jpg
+  20250531_152909_aug1.jpg
+  20250531_152013_no_bg_9jy2fwg7_original.jpg
+  Udang Putih10_aug1.jpg
+  20250531_152316_aug2.jpg
+  20250531_151935_original.jpg
+  Udang Putih7_original.jpg
+  20250531_153011_no_bg_hpdkholp_aug2.jpg
+  20250531_152516_aug2.jpg
+  20250531_152852_aug2.jpg
+  20250531_152056_original.jpg
+  Udang Putih1_aug2.jpg
+  20250531_152418_aug2.jpg
+  20250531_152753_original.jpg
+  20250531_152238_original.jpg
+  20250531_151955_aug2.jpg
+  20250531_152727_no_bg_ixsbig9i_original.jpg
+  20250531_153011_no_bg_hpdkholp_aug1.jpg
+  20250531_152753_aug1.jpg
+  Udang Putih9_aug2.jpg
+  20250531_153028_aug2.jpg
+  20250531_153106_aug1.jpg
+  20250531_152541_original.jpg
+  20250531_152402_no_bg_497tqs2e_aug2.jpg
+  Udang Putih4_original.jpg
+  20250531_152558_no_bg_abyktx86_aug1.jpg
+  20250531_152425_no_bg_pli9jc8b_original.jpg
+  20250531_152048_no_bg_pokx6sv2_aug2.jpg
+  20250531_152030_no_bg_06cdvakk_original.jpg
+  20250531_152037_no_bg_7g2n5t68_aug1.jpg
+  20250531_151928_aug1.jpg
+  20250531_152909_original.jpg
+  20250531_152142_no_bg_ocwjzuga_aug1.jpg
+  20250531_152134_no_bg_caxzkw9i_aug1.jpg
+  20250531_152823_no_bg_4hgb7qlv_aug1.jpg
+  20250531_152941_aug1.jpg
+  20250531_152701_aug2.jpg
+  20250531_152153_original.jpg
+  20250531_152608_no_bg_ydhiddy8_aug1.jpg
+  20250531_152335_no_bg_nhf0nctu_original.jpg
+  20250531_152351_original.jpg
+  20250531_152123_original.jpg
+  20250531_151947_aug1.jpg
+  20250531_152551_aug1.jpg
+
+Total udang_putih: 51 images
+
+udang_ronggeng:
+----------------------------------------------------------------------
+  20251110_110356_no_bg_wrctx8t4_aug1.jpg
+  20251110_110356_aug2.jpg
+  20251110_111330_aug1.jpg
+  20251110_111520_no_bg_qjwm6gem_original.jpg
+  20251110_110910_aug1.jpg
+  Udang Ronggeng7_original.jpg
+  20251110_111542_original.jpg
+  20251110_111023_aug2.jpg
+  Udang Ronggeng10_aug1.jpg
+  20251110_111037_aug2.jpg
+  20251110_110509_original.jpg
+  20251110_111542_no_bg_6boag9ur_aug1.jpg
+  20251110_111207_aug1.jpg
+  20251110_110851_no_bg_335n1ar2_original.jpg
+  20251110_110815_no_bg_oywvy827_original.jpg
+  20251110_111200_original.jpg
+  20251110_111533_no_bg_w4jjpacp_aug2.jpg
+  20251110_110757_no_bg_0advtlmg_aug2.jpg
+  20251110_111240_no_bg_n2u3qn3o_aug1.jpg
+  20251110_110757_original.jpg
+  Udang Ronggeng6_original.jpg
+  20251110_110808_no_bg_dikmshz9_original.jpg
+  20251110_111551_aug2.jpg
+  20251110_110830_no_bg_bkdkjnwz_original.jpg
+  20251110_110907_no_bg_4c2hzuc2_aug1.jpg
+  20251110_110446_no_bg_uvl5hb5c_original.jpg
+  20251110_111218_no_bg_s2rza0yn_aug2.jpg
+  20251110_110340_aug1.jpg
+  20251110_111200_no_bg_2oa8jyrv_aug2.jpg
+  20251110_111017_no_bg_fh41f1nv_aug1.jpg
+  20251110_111533_aug2.jpg
+  20251110_111015_no_bg_7ka75qw7_aug1.jpg
+  20251110_111346_aug1.jpg
+  20251110_111526_no_bg_2yaycbbq_aug2.jpg
+  20251110_110458_original.jpg
+  20251110_111334_aug1.jpg
+  20251110_111207_aug2.jpg
+  20251110_110858_no_bg_d95zg1vk_original.jpg
+  20251110_111526_aug2.jpg
+  20251110_111330_no_bg_ffy91130_aug2.jpg
+  20251110_110809_no_bg_8av522zv_aug2.jpg
+  20251110_111520_original.jpg
+  20251110_110959_no_bg_ya6aks4f_aug1.jpg
+  20251110_111218_original.jpg
+  20251110_111348_original.jpg
+  20251110_111520_no_bg_qjwm6gem_aug2.jpg
+  20251110_110743_aug2.jpg
+  20251110_111210_no_bg_7jwf8nd1_original.jpg
+  20251110_111248_no_bg_wb5sfveo_aug2.jpg
+  20251110_111356_aug2.jpg
+  20251110_111250_no_bg_0abwftpi_aug1.jpg
+
+Total udang_ronggeng: 51 images
+
+udang_windu:
+----------------------------------------------------------------------
+  20250602_154204_original.jpg
+  20250602_154518_original.jpg
+  20250602_154447_aug1.jpg
+  20250531_153547_no_bg_zfen5b66_aug2.jpg
+  20250602_154538_aug2.jpg
+  20250605_155808_no_bg_2u9t9lmi_aug2.jpg
+  20250602_154355_no_bg_5aj67n0c_original.jpg
+  20250602_154114_aug2.jpg
+  20250602_154102_no_bg_5j6nsp8d_aug2.jpg
+  20250602_154223_original.jpg
+  20250605_155808_no_bg_2u9t9lmi_original.jpg
+  20250602_154251_no_bg_54t2c9uj_original.jpg
+  Udang Windu9_original.jpg
+  20250531_153417_no_bg_e0ls39cp_original.jpg
+  20250602_154211_aug1.jpg
+  20250605_155907_no_bg_0jbqdumz_original.jpg
+  20250602_154500_no_bg_esn3b4d8_aug2.jpg
+  20250602_154622_no_bg_rk1tp7bp_original.jpg
+  20250531_153609_aug2.jpg
+  20250605_155739_no_bg_r8w06sc8_original.jpg
+  20250602_154538_no_bg_694e3kaw_aug2.jpg
+  Udang Windu10_original.jpg
+  20250531_153609_aug1.jpg
+  20250602_154622_original.jpg
+  20250605_155755_original.jpg
+  20250605_155915_no_bg_85lygst1_aug1.jpg
+  20250602_154114_no_bg_zm2sekao_aug2.jpg
+  20250531_153448_aug2.jpg
+  20250605_155900_original.jpg
+  20250602_154141_no_bg_tzgshr9q_original.jpg
+  20250602_154454_no_bg_1dakv52e_original.jpg
+  20250602_154024_original.jpg
+  20250605_155747_no_bg_0vq8nxph_original.jpg
+  20250602_154512_original.jpg
+  20250602_154609_original.jpg
+  20250602_154107_no_bg_44yq661q_aug1.jpg
+  20250602_154622_aug1.jpg
+  20250602_154309_no_bg_6ssi22i2_original.jpg
+  20250602_154530_no_bg_5z6afqss_aug1.jpg
+  20250602_153921_aug1.jpg
+  Udang Windu10_aug2.jpg
+  20250602_154245_aug2.jpg
+  20250602_154512_aug1.jpg
+  20250605_155731_aug1.jpg
+  20250531_153547_original.jpg
+  20250531_153609_no_bg_s3gkzzf1_aug1.jpg
+  20250602_154337_no_bg_lun4074d_original.jpg
+  20250531_153609_no_bg_s3gkzzf1_original.jpg
+  Udang Windu3_aug2.jpg
+  Udang Windu8_original.jpg
+  Udang Windu4_aug2.jpg
+
+Total udang_windu: 51 images
